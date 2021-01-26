@@ -6,7 +6,7 @@ import search from "../assets/images/search.png";
 
 const Header = () => (
   <StyledHeader className="text-light d-flex flex-column">
-    <nav className="row no-gutters px-5 pt-3">
+    <nav className="row no-gutters px-2 px-sm-5 pt-3">
       <div className="col-md-6 col-lg-8">
         <img src={LogoHere} alt="Logo" />
       </div>
